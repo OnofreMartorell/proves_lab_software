@@ -1,2 +1,2 @@
 UI layout
-Dark mode support
+No dark mode support
